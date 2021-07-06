@@ -1,2 +1,2 @@
 # Capnography
-Project for EtCO2 and FiCO2 measurement.
+Project for EtCO2, FiCO2 and FR measurement.
